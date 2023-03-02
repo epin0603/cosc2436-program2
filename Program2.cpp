@@ -1,6 +1,6 @@
 /////////////////////////////////////////////////////////////////////////////////////////////////////
-//Name: Eddie G. Pineda         																   //
-//Date: 10/22/2022																				   //
+//Name: Eddie G. Pineda         								   //
+//Date: 10/22/2022										   //
 //Program Statement: Create a program that creates an array of six DivSales objects. The user      //
 //                   enters the sales for four quarters for each division,and the program should   //
 //                   display a table showing the division sales for each quarter. Then display     //
